@@ -1,6 +1,6 @@
-package com.doctorq.algorithm
+package com.doctorq
 
-import p
+import com.doctorq.algorithm.HeapSort
 
 /**
  * Created by doctorq on 2017/6/2.

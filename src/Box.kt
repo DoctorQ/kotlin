@@ -9,7 +9,8 @@ class Box<T>(t: T) {
 
 
 fun main(args: Array<String>) {
-    val sync = AccountingSync()
+    val sync = TestOver()
+
 //
 //
 //
