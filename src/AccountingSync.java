@@ -6,6 +6,7 @@ public class AccountingSync implements Runnable {
 
     public  synchronized void increase() {
         i++;
+        System.out.println(i);
     }
 
     @Override
